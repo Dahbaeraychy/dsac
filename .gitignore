@@ -2,4 +2,6 @@
 
 !Makefile
 !*.c
+!*.md
 !.gitignore
+!/notes
